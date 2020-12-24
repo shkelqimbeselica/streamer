@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "My first stream!",
+      "description": "Welcome to my first video!",
+      "userId": "108428579469542837609",
+      "id": 1
+    },
+    {
+      "description": "What do you think of it?",
+      "title": "Welcome to my portfolio!",
+      "userId": "108428579469542837609",
+      "id": 2
+    },
+    {
+      "title": "My newest stream",
+      "description": "I will be playing some video game!",
+      "userId": "108428579469542837609",
+      "id": 3
+    }
+  ]
+}
